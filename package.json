@@ -1,0 +1,61 @@
+{
+  "_from": "cordova-plugin-background-mode-alwaysmkt",
+  "_id": "cordova-plugin-background-mode-alwaysmkt@0.7.3",
+  "_inBundle": false,
+  "_integrity": "sha512-LsU1v7EgTUROaks+tcQ8TnMzVUcU/TwjDVwj2O/4e4aI2q2ldLGsiZorqKqfqvwh2HoIssmY73OwJk91hQi62w==",
+  "_location": "/cordova-plugin-background-mode-alwaysmkt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-background-mode-alwaysmkt",
+    "name": "cordova-plugin-background-mode-alwaysmkt",
+    "escapedName": "cordova-plugin-background-mode-alwaysmkt",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-background-mode-alwaysmkt/-/cordova-plugin-background-mode-alwaysmkt-0.7.3.tgz",
+  "_shasum": "066f92c99f403b3ed3d6fb91f281a0a7ccbc84ba",
+  "_spec": "cordova-plugin-background-mode-alwaysmkt",
+  "_where": "/Users/isitalways/Jason/aim5_Native_v5_wk_a_prod_cordova9",
+  "author": {
+    "name": "Jason"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-background-mode-alwaysmkt",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "Prevent apps from going to sleep in background.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "android-sdk",
+      "version": ">=16"
+    }
+  ],
+  "keywords": [
+    "appplant",
+    "background",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-background-mode-alwaysmkt",
+  "version": "0.7.3"
+}
